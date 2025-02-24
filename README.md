@@ -69,7 +69,7 @@ pip install tensorflow keras numpy flask opencv-python pillow
 
 🔹 **1️⃣ Clone the Repository**
 
-git clone https://github.com/yourusername/Brain-Tumor-Detection.git
+git clone https://github.com/vinuta-patil/Brain-Tumor-Detection.git
 cd Brain-Tumor-Detection
 
 🔹 **2️⃣ Train the Model (Optional)**
@@ -105,10 +105,6 @@ The model will predict whether the image contains a tumor or not.
 
 🎨 Enhance UI: Make the frontend more interactive and visually appealing.
 
-
-✨ AUTHOR
-
-👤 Abhinav Sriharsha 📧 abhinav932002@gmail.com
 
 💡 If you find this project useful, consider giving it a ⭐ on GitHub!
 
